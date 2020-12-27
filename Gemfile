@@ -1,3 +1,5 @@
+gem "awesome_print", :git => 'https://github.com/awesome-print/awesome_print'
+
 source "https://rubygems.org"
 #gem "rspec"
 gem "sinatra", '1.4.4'
